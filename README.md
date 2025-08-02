@@ -173,3 +173,31 @@ Make sure to copy the Publishable API Key from the Medusa Admin UI and paste it 
 https://abcd1234.ngrok.io/webhook
 
 >  This will allow Dialogflow to call your Node.js server in real-time when users trigger those intents.
+
+---
+
+## 📷 Results
+
+###  Dialogflow Workflow
+- **Defined Intents in Console**
+  ![Dialogflow Intents](Results/Intents.png)
+
+- **Intent Recognition**
+  ![Intent Recognition](Results/Intent%20Recognition.png)
+
+- **User Interaction**
+  ![User Interaction](Results/User%20Interaction.png)
+
+- **Data Retrieval**
+  ![Data Retrieval](Results/Data%20Retrieval.png)
+
+- **Response Generation**
+  ![Response Generation](Results/Response%20Generation.png)
+
+- **Webhook Trigger**
+  ![Webhook call](Results/Webhook%20Call.png)
+
+###  Medusa Store
+
+- **Product Listing from Medusa**
+  ![Medusa Store](Results/Medusa%20Store.png)
