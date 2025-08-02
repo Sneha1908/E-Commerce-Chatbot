@@ -195,7 +195,7 @@ https://abcd1234.ngrok.io/webhook
   ![Response Generation](Results/Response%20Generation.png)
 
 - **Webhook Trigger**
-  ![Webhook call](Results/Webhook%20Call.png)
+  ![Webhook Call](Results/Webhook%20call.png)
 
 ###  Medusa Store
 
