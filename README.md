@@ -201,3 +201,12 @@ https://abcd1234.ngrok.io/webhook
 
 - **Product Listing from Medusa**
   ![Medusa Store](Results/Medusa%20Store.png)
+
+---
+
+## 👩‍💻 Author
+
+**Sneha S**  
+Final Year B.E. Computer Science and Engineering  
+Coimbatore Institute of Technology  
+GitHub: [@Sneha1908](https://github.com/Sneha1908)
